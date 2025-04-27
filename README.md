@@ -1,4 +1,4 @@
-## snowball
+## :snowflake: snowball! :snowman:
 
 <!--
 **doggyman2/doggyman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
